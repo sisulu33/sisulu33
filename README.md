@@ -8,3 +8,5 @@
 </picture>
 
 ![Typing](https://readme-typing-svg.herokuapp.com?font=Fira+Code&lines=Full-stack+developer;Open+source+contributor;Always+learning)
+
+![Skills](https://skillicons.dev/icons?i=js,ts,python,react,docker)
