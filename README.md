@@ -1,5 +1,6 @@
-## Hi there 👋
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sisulu33&show_icons=true&theme=tokyonight)
+![Streak](https://streak-stats.demolab.com?user=sisulu33&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sisulu33&layout=compact)
 <!--
 **sisulu33/sisulu33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
