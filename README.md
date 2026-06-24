@@ -107,9 +107,8 @@
 ```
 
 [![GitHub](https://img.shields.io/badge/GitHub-sisulu33-00FF41?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0a)](https://github.com/sisulu33)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&labelColor=0a0a0a)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0a0a0a)](https://twitter.com/YOUR_TWITTER)
-[![Email](https://img.shields.io/badge/Email-Say_Hello-FF4444?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a)](mailto:YOUR_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&labelColor=0a0a0a)](https://linkedin.com/in/[YOUR_LINKEDIN](https://www.linkedin.com/in/amanya-sisulu-b28218339/))
+[![Email](https://img.shields.io/badge/Email-Say_Hello-FF4444?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a)](mailto:tumushabesisulu@gmail.com)
 
 </div>
 
