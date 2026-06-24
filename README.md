@@ -97,17 +97,16 @@
 ┌─────────────────────────────────────────────────┐
 │          > ping sisulu33 --all-channels          │
 │                                                  │
-│  [●] GitHub   → github.com/sisulu33             │
-│  [●] LinkedIn → linkedin.com/in/YOUR_LINKEDIN   │
-│  [●] Twitter  → twitter.com/YOUR_TWITTER        │
-│  [●] Email    → YOUR_EMAIL                      │
+│  [●] GitHub   → github.com/sisulu33              │
+│  [●] LinkedIn → linkedin.com/in/Amanya Sisulu    │
+│  [●] Email    → tumushabesisulu@mail.com         │
 │                                                  │
 │  > Connection open. Say hello.                   │
 └─────────────────────────────────────────────────┘
 ```
 
 [![GitHub](https://img.shields.io/badge/GitHub-sisulu33-00FF41?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0a)](https://github.com/sisulu33)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&labelColor=0a0a0a)](https://linkedin.com/in/[YOUR_LINKEDIN](https://www.linkedin.com/in/amanya-sisulu-b28218339/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&labelColor=0a0a0a)](https://linkedin.com/in/[https://www.linkedin.com/in/amanya-sisulu-b28218339/?skipRedirect=true])
 [![Email](https://img.shields.io/badge/Email-Say_Hello-FF4444?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a)](mailto:tumushabesisulu@gmail.com)
 
 </div>
